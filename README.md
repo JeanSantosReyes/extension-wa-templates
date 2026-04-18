@@ -16,13 +16,11 @@ Guarda templates de mensajes de texto e imágenes y úsalos como respuestas ráp
 1. Abre [WhatsApp Web](https://web.whatsapp.com)
 2. Haz clic en el ícono de la extensión en tu navegador
 3. Crea templates con **texto**, **imágenes** o ambos
-4. Organiza tus templates por **categorías** (Ventas, Soporte, etc.)
-5. Abre cualquier chat en WA Web y haz clic en **"Usar en WhatsApp"**
+5. Abre cualquier chat en WA Web o usa el atajo **"Ctrl+Shift+Space"**
 
 ## ✨ Funciones
 
 - ✅ Templates con texto e imágenes
-- ✅ Categorías personalizadas
 - ✅ Búsqueda rápida
 - ✅ Editar y eliminar templates
 - ✅ Drag & drop de imágenes
@@ -30,7 +28,7 @@ Guarda templates de mensajes de texto e imágenes y úsalos como respuestas ráp
 
 ## 🔒 Privacidad
 
-Todos los datos se guardan localmente en tu navegador con `chrome.storage.local`. Ningún dato se envía a servidores externos.
+Todos los datos se guardan localmente en tu navegador con `IndexedDB`. Ningún dato se envía a servidores externos.
 
 ## ⚠️ Notas
 
