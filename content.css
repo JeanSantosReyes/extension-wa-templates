@@ -1,0 +1,24 @@
+/* WA Quick Templates - Content styles (intentionally minimal) */
+
+.waqt-notification {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  background: #1e242d;
+  border: 1px solid #2a3040;
+  border-left: 3px solid #25D366;
+  color: #e8edf5;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 13px;
+  z-index: 9999;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  animation: waqt-slide-in 0.25s ease;
+  pointer-events: none;
+}
+
+@keyframes waqt-slide-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
